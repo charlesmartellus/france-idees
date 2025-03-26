@@ -10,7 +10,7 @@
   * [Le sophisme de l'épouvantail](argumentation/le-sophisme-de-lepouvantail.md)
   * [Le sophisme de la plage](argumentation/le-sophisme-de-la-plage.md)
   * [Le sophisme de l'impossible définition parfaite](argumentation/le-sophisme-de-limpossible-definition-parfaite.md)
-  * [Le bulvérisme (d'accord, mais est-ce que c'est faux ?)](argumentation/le-bulverisme-daccord-mais-est-ce-que-cest-faux.md)
+  * [Le bulvérisme ("d'accord, mais est-ce que c'est faux ?")](argumentation/le-bulverisme-daccord-mais-est-ce-que-cest-faux.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
 * [Philosophie politique](philosophie-politique/README.md)

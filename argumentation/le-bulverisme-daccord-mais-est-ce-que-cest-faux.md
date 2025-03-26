@@ -1,4 +1,4 @@
-# Le bulvérisme (d'accord, mais est-ce que c'est faux ?)
+# Le bulvérisme ("d'accord, mais est-ce que c'est faux ?")
 
 ### Le bulvérisme est un sophisme consistant à expliquer pourquoi une personne à tort plutôt que de répondre à l’argument proposé.
 
