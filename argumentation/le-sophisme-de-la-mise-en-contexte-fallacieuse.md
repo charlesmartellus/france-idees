@@ -10,6 +10,8 @@ Le 24 mars 2025, Manuel Valls a affirmé que « la haine des Juifs vient essenti
 
 En réponse, [Pierre Jouvet, député européen du Parti socialiste a affirmé sur X](https://x.com/PJouvet/status/1904508622148665701) : « Les racines religieuses, économiques, nationalistes et raciales de l’antisémitisme se sont développées en EUROPE dès le Moyen-Âge. Au XXe siècle, la Shoah n’a pas été perpétrée par le « monde arabo-musulman ». »
 
+{% embed url="https://x.com/PJouvet/status/1904508622148665701" %}
+
 **Le sophisme réside dans le fait d’opérer une mise en contexte fallacieuse** : ce n’est pas parce qu’il a existé dans l’histoire un antisémitisme européen qu’il n’existe pas d’antisémitisme spécifiquement arabo-musulman, lequel n’a rien – ou peu - à voir avec l’histoire européenne.
 
 **Ces deux phénomènes ont un point commun (les personnes vers lesquelles ils sont dirigées) mais ils sont issus d’histoires distinctes.** L’antisémitisme qui se déploie aujourd’hui en Europe est très majoritairement le fait de non-Européens issus du monde arabo-musulman et qui ne sont évidemment pas les héritiers de l’histoire européenne.
