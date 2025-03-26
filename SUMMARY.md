@@ -5,6 +5,7 @@
   * [Répondre au lieu commun « le racisme n’est pas une opinion, c’est un délit »](argumentation/editor.md)
   * [Catégoriser et généraliser est un mode de pensée normal](argumentation/editor-1.md)
   * ["l’extrême-droite est l’alliée objective de l’islamisme, car ils sont tous les deux conservateurs"](argumentation/editor-2.md)
+  * [Le sophisme de la mise en contexte fallacieuse](argumentation/le-sophisme-de-la-mise-en-contexte-fallacieuse.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
 * [Société](societe/README.md)
@@ -19,4 +20,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-* [Le sophisme de la mise en contexte fallacieuse](basics/le-sophisme-de-la-mise-en-contexte-fallacieuse.md)
