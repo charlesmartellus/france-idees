@@ -22,3 +22,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Le sophisme de l'accident](le-sophisme-de-laccident.md)
