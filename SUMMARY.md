@@ -7,6 +7,7 @@
   * ["l’extrême-droite est l’alliée objective de l’islamisme, car ils sont tous les deux conservateurs"](argumentation/editor-2.md)
   * [Le sophisme de la mise en contexte fallacieuse](argumentation/le-sophisme-de-la-mise-en-contexte-fallacieuse.md)
   * [Le sophisme de l'accident](argumentation/le-sophisme-de-laccident.md)
+  * [Le sophisme de l'épouvantail](argumentation/le-sophisme-de-lepouvantail.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
 * [Philosophie politique](philosophie-politique/README.md)
@@ -23,7 +24,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Le sophisme de l'épouvantail](le-sophisme-de-lepouvantail.md)
