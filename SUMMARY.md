@@ -8,6 +8,7 @@
   * [Le sophisme de la mise en contexte fallacieuse](argumentation/le-sophisme-de-la-mise-en-contexte-fallacieuse.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
+* [Philosophie politique](philosophie-politique.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
 
@@ -20,3 +21,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Distinguer compatriote et concitoyen](distinguer-compatriote-et-concitoyen.md)
