@@ -8,6 +8,7 @@
   * [Le sophisme de la mise en contexte fallacieuse](argumentation/le-sophisme-de-la-mise-en-contexte-fallacieuse.md)
   * [Le sophisme de l'accident](argumentation/le-sophisme-de-laccident.md)
   * [Le sophisme de l'épouvantail](argumentation/le-sophisme-de-lepouvantail.md)
+  * [Le sophisme de la plage](argumentation/le-sophisme-de-la-plage.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
 * [Philosophie politique](philosophie-politique/README.md)
@@ -24,7 +25,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Le sophisme de la plage](le-sophisme-de-la-plage.md)
