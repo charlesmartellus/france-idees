@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Centre de ressources d'arguments de droite](README.md)
+* [Centre de ressources pour l'argumentation](README.md)
 * [Argumentation](argumentation/README.md)
   * [Répondre au lieu commun « le racisme n’est pas une opinion, c’est un délit »](argumentation/editor.md)
   * [Catégoriser et généraliser est un mode de pensée normal](argumentation/editor-1.md)
