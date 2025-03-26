@@ -16,6 +16,7 @@
 * [Philosophie politique](philosophie-politique/README.md)
   * [Distinguer compatriote et concitoyen](philosophie-politique/distinguer-compatriote-et-concitoyen.md)
   * ["Les étrangers paient des impôts donc ils doivent voter"](philosophie-politique/les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
+  * ["Il n'a pas les codes"](philosophie-politique/il-na-pas-les-codes.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
 
