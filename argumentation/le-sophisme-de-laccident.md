@@ -8,7 +8,7 @@ Exemple 1 :
 
 **Le sophisme de l’accident est souvent employé par la gauche pour dire que, parce que des migrations existent, le peuple français ne peut pas être défini** (il n’aurait pas de substrat stable donc pas d’essence).
 
-<figure><img src=".gitbook/assets/GklPG7gXMAAbM1y.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GklPG7gXMAAbM1y.png" alt=""><figcaption></figcaption></figure>
 
 Si l’on considère la longue durée, le peuple français se caractérise justement par une stabilité ethnique. Cette ethnie (les Gaulois avec quelques apports marginaux et complètement intégrés depuis 15 siècles) constitue l’essence du peuple français. Les autres éléments qui s’y sont ajoutés constituent des accidents, mais ils ne le définissent pas et ils n’invalident pas ce qu’est son essence. Ce n’est pas parce que des Arméniens se sont intégrés au peuple français que le peuple français n’existe pas ou que les Arméniens définissent ce qu’est le peuple français. Ils sont contingents : sans les Arméniens, la France et le peuple français existeraient quand même.
 
