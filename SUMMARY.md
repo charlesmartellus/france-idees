@@ -25,3 +25,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Le sophisme de l'impossible définition parfaite](le-sophisme-de-limpossible-definition-parfaite.md)
