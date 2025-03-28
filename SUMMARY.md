@@ -11,7 +11,8 @@
   * [Le sophisme de la plage](argumentation/le-sophisme-de-la-plage.md)
   * [Le sophisme de l'impossible définition parfaite](argumentation/le-sophisme-de-limpossible-definition-parfaite.md)
   * [Le bulvérisme ("d'accord, mais est-ce que c'est faux ?")](argumentation/le-bulverisme-daccord-mais-est-ce-que-cest-faux.md)
-* [Démographie](demographie.md)
+* [Démographie](demographie/README.md)
+  * [Répondre au lieu commun « Sans métissage on finit consanguins »](demographie/repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
 * [Philosophie politique](philosophie-politique/README.md)
@@ -30,7 +31,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Répondre au lieu commun « Sans métissage on finit consanguins »](repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)
