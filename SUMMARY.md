@@ -31,3 +31,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Le vrai communiste n’a pas été essayé](le-vrai-communiste-na-pas-ete-essaye.md)
