@@ -1,4 +1,4 @@
-# Le vrai communiste n’a pas été essayé
+# Le vrai communiste n’a jamais été essayé
 
 ### L’affirmation selon laquelle les expériences historiques du socialisme réel ne seraient pas du « vrai communisme » n’est pas une analyse rigoureuse mais une opération idéologique. Elle fonctionne comme un mécanisme d’immunisation permettant de préserver une conception « pure » du communisme, qui serait distincte des échecs de sa mise en œuvre et de ses crimes.
 
