@@ -21,3 +21,9 @@
 **Une bonne façon de sortir de cette situation est de traduire systématiquement les mots moraux vagues à charge émotionnelle dans le vocabulaire des vertus et des vices, qui sont bien plus objectifs** : cet assistant social qui n’a pas dénoncé les grooming gangs de sa ville anglaise par crainte d’être accusé de racisme a-t-il agi de manière _courageuse, juste, fidèle à la vérité_ ? Evidemment que non, et on voit donc bien que ces critères-ci sont alors bien plus fondamentaux que ceux qui sont imposés par la gauche morale (antiracisme, antifascisme, inclusivité, etc.).
 
 **En conclusion, l'émotivisme est une mauvaise conception de la morale, qui consiste à substituer des préférences personnelles qui peuvent être arbitraires à des valeurs étayées, défendables et partagées.** Il sert souvent de base à un chantage moral qui peut avoir de graves conséquences individuelles et politiques. Il est à combattre en exigeant de ceux qui y font appel une justification morale des actes eux-mêmes, non de principes abstraits.
+
+
+
+Liens :
+
+* [Fil twitter expliquant l'émotivisme à partir du film Plesantville](https://x.com/norbert_fr/status/1891581543266562059)
