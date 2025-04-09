@@ -32,3 +32,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Le gouvernement des juges](le-gouvernement-des-juges.md)
