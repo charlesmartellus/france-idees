@@ -15,6 +15,7 @@
   * [Répondre au lieu commun « Sans métissage on finit consanguins »](demographie/repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)
 * [Droit et institutions](droit-et-institutions/README.md)
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
+  * [Le gouvernement des juges](droit-et-institutions/le-gouvernement-des-juges.md)
 * [Philosophie politique](philosophie-politique/README.md)
   * [Distinguer compatriote et concitoyen](philosophie-politique/distinguer-compatriote-et-concitoyen.md)
   * ["Les étrangers paient des impôts donc ils doivent voter"](philosophie-politique/les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
@@ -32,7 +33,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Le gouvernement des juges](le-gouvernement-des-juges.md)
