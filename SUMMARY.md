@@ -21,7 +21,8 @@
   * ["Les étrangers paient des impôts donc ils doivent voter"](philosophie-politique/les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
   * ["Il n'a pas les codes"](philosophie-politique/il-na-pas-les-codes.md)
   * [Le vrai communiste n’a jamais été essayé](philosophie-politique/le-vrai-communiste-na-jamais-ete-essaye.md)
-* [Psychologie](psychologie.md)
+* [Psychologie](psychologie/README.md)
+  * [L'émotivisme](psychologie/lemotivisme.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
 
