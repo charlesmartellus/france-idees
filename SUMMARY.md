@@ -36,3 +36,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Etats-Unis : le mythe du melting pot et de l’assimilation](etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
