@@ -6,7 +6,7 @@
 
 Dans une étude de 2019, des chercheurs ont demandé aux participants de dessiner l’étendue de leur cercle moral, c’est-à-dire l’ensemble des individus ou des concepts envers lesquels les relations sont guidées par des règles morales. Le cercle le plus restreint concerne la famille et les cercles les plus éloignés concernent les étrangers, l’humanité, les plantes, la planète, etc.
 
-<figure><img src=".gitbook/assets/GmVejQWWYAEQGGf.jpg" alt=""><figcaption><p>Les couleurs chaudes représentent les cercles sociaux vers lesquels l'empathie des personnes interrogées se porte le plus fortement.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/GmVejQWWYAEQGGf.jpg" alt=""><figcaption><p>Les couleurs chaudes représentent les cercles sociaux vers lesquels l'empathie des personnes interrogées se porte le plus fortement.</p></figcaption></figure>
 
 **Les individus conservateurs manifestent un plus grand parochialisme (attachement à la paroisse, c’est-à-dire à la proximité), tandis que les individus progressistes sont plus universalistes.**
 
@@ -22,7 +22,7 @@ Au sein des pays développés, les athées sont nettement plus universalistes qu
 
 **La posture conservatrice, au contraire, en privilégiant une solidarité plus forte envers les cercles restreints allant de la famille à la nation, favorisent la stabilité et la cohésion sociales.** Ce sont des valeurs qui allient une justification morale forte et légitime (l’homme est un individu limité, inscrit dans des réseaux et une sociabilité limités, sa responsabilité ne saurait ni ne pourrait donc être universelle) avec une approche de bon sens et pérenne de la politique, évitant les déséquilibres sociaux et ethniques d’une société.
 
-<figure><img src=".gitbook/assets/GmVesRJXIAAcrMV.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GmVesRJXIAAcrMV.jpg" alt=""><figcaption></figcaption></figure>
 
 En conclusion, la théorie du cercle moral montre des différences de sensibilité entre conservateurs et politiques qui finissent par avoir des impacts tragiques sur les sociétés et les systèmes politiques. La situation européenne de conflits ethniques, religieux et anthropologiques dus à l’immigration de masse est notamment une conséquence de l’universalisme des progressistes qui a été imposé à l’ensemble de la société.
 

@@ -23,6 +23,7 @@
   * [Le vrai communiste n’a jamais été essayé](philosophie-politique/le-vrai-communiste-na-jamais-ete-essaye.md)
 * [Psychologie](psychologie/README.md)
   * [L'émotivisme](psychologie/lemotivisme.md)
+  * [Le cercle moral](psychologie/le-cercle-moral.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
 
@@ -35,7 +36,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Le cercle moral](le-cercle-moral.md)
