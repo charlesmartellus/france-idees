@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Centre de ressources pour l'argumentation](README.md)
+* [Anthropologie et civilisations](anthropologie-et-civilisations/README.md)
+  * [Etats-Unis : le mythe du melting pot et de l’assimilation](anthropologie-et-civilisations/etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
 * [Argumentation](argumentation/README.md)
   * [Répondre au lieu commun « le racisme n’est pas une opinion, c’est un délit »](argumentation/editor.md)
   * [Catégoriser et généraliser est un mode de pensée normal](argumentation/editor-1.md)
@@ -26,7 +28,6 @@
   * [Le cercle moral](psychologie/le-cercle-moral.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
-* [Etats-Unis : le mythe du melting pot et de l’assimilation](etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
 
 ## Basics
 
@@ -37,7 +38,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Anthropologie et civilisations](anthropologie-et-civilisations.md)
