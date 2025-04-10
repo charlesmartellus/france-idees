@@ -26,6 +26,7 @@
   * [Le cercle moral](psychologie/le-cercle-moral.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
+* [Etats-Unis : le mythe du melting pot et de l’assimilation](etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
 
 ## Basics
 
@@ -39,4 +40,4 @@
 
 ***
 
-* [Etats-Unis : le mythe du melting pot et de l’assimilation](etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
+* [Anthropologie et civilisations](anthropologie-et-civilisations.md)
