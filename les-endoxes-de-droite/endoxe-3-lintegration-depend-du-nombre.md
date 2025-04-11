@@ -10,6 +10,12 @@ En conséquence, les proportions actuelles d’immigrés arabo-musulmans posent 
 
 L’urgence est donc d’arrêter sans aucun délai les flux d’immigration en provenance de ces régions. Les solutions « idéologiques » peuvent ensuite diverger : le centre-droit républicain pourrait proposer un nouvel édit de Nantes ; la droite RN pourrait mettre l’accent sur les expulsions des clandestins et les incitations aux retours ; les identitaires pourraient exiger une rémigration totale.
 
+Cas de l'islam :
+
+**L’islam est un système anthropologique, métaphysique et moral radicalement différent du christianisme.** Le contrôle social, le conservatisme religieux, le rapport à Dieu, la loi morale, le système de justification de l’action, le rapport aux sciences, l’importance et le statut du droit et les mécanismes d’explication causale n’ont pas grand-chose à voir d’une religion à l’autre : intériorité contre pratique ostensive, humanisme modéré contre domination masculine, dialogue rationnel contre soumission sans question, loi naturelle contre commandement divin arbitraire, universalisme moral contre biais en faveur de la communauté des croyants, autonomie des sciences contre suprématie du Coran incréé, herméneutique spirituelle contre juridisation des préceptes de Mahomet, réalisme causal contre occasionalisme.
+
+Ces différences anthropologiques et culturelles fondamentales doivent être prises en compte pour ce qu’elles sont : des systèmes objectivement incompatibles.
+
 Liens externes :
 
 * Echec de l'assimilation : [78% des musulmans considèrent que la laïcité française est islamophobe](https://www.lefigaro.fr/actualite-france/78-des-musulmans-considerent-que-la-laicite-francaise-est-islamophobe-20231208).
