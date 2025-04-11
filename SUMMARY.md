@@ -32,6 +32,7 @@
   * [Les endoxes de droite (définition)](les-endoxes-de-droite/les-endoxes-de-droite-definition.md)
   * [Endoxe #1 : les Français de souche existent](les-endoxes-de-droite/endoxe-1-les-francais-de-souche-existent.md)
   * [Endoxe #2 : la nation est ethnique et civique](les-endoxes-de-droite/endoxe-2-la-nation-est-ethnique-et-civique.md)
+  * [Endoxe #3 : l'intégration dépend du nombre](les-endoxes-de-droite/endoxe-3-lintegration-depend-du-nombre.md)
 
 ## Basics
 
@@ -42,7 +43,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Endoxe #3 : l'intégration dépend du nombre](endoxe-3-lintegration-depend-du-nombre.md)
