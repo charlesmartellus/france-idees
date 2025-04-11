@@ -34,6 +34,7 @@
   * [Endoxe #2 : la nation est ethnique et civique](les-endoxes-de-droite/endoxe-2-la-nation-est-ethnique-et-civique.md)
   * [Endoxe #3 : l'intégration dépend du nombre](les-endoxes-de-droite/endoxe-3-lintegration-depend-du-nombre.md)
   * [Endoxe #4 : les nations ont des droits propres](les-endoxes-de-droite/endoxe-4-les-nations-ont-des-droits-propres.md)
+  * [Endoxe #5 : le bien commun des Français prime](les-endoxes-de-droite/endoxe-5-le-bien-commun-des-francais-prime.md)
 
 ## Basics
 
