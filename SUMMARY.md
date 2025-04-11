@@ -28,6 +28,10 @@
   * [Le cercle moral](psychologie/le-cercle-moral.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
+* [Les endoxes de droite](les-endoxes-de-droite/README.md)
+  * [Les endoxes de droite (définition)](les-endoxes-de-droite/les-endoxes-de-droite-definition.md)
+  * [Endoxe #1 : les Français de souche existent](les-endoxes-de-droite/endoxe-1-les-francais-de-souche-existent.md)
+  * [Endoxe #2 : la nation est ethnique et civique](les-endoxes-de-droite/endoxe-2-la-nation-est-ethnique-et-civique.md)
 
 ## Basics
 
