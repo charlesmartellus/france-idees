@@ -42,3 +42,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Endoxe #3 : l'intégration dépend du nombre](endoxe-3-lintegration-depend-du-nombre.md)
