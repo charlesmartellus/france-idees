@@ -43,3 +43,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Endoxe #4 : les nations ont des droits propres](endoxe-4-les-nations-ont-des-droits-propres.md)
