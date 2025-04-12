@@ -48,3 +48,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Immigration et forces armées : risques et tensions](immigration-et-forces-armees-risques-et-tensions.md)
