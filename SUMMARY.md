@@ -26,6 +26,7 @@
 * [Psychologie](psychologie/README.md)
   * [L'émotivisme](psychologie/lemotivisme.md)
   * [Le cercle moral](psychologie/le-cercle-moral.md)
+  * [Les croyances de luxe](psychologie/les-croyances-de-luxe.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
   * [Immigration et forces armées : les risques pour la sécurité nationale](societe/immigration-et-forces-armees-les-risques-pour-la-securite-nationale.md)
