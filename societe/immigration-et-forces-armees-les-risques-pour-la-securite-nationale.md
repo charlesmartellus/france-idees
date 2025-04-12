@@ -1,4 +1,4 @@
-# Immigration et forces armées : risques et tensions
+# Immigration et forces armées : les risques pour la sécurité nationale
 
 ### L'intégration de militaires issus de l'immigration, notamment de confession musulmane, soulève des enjeux sécuritaires et opérationnels importants, nécessitant une vigilance spécifique face aux risques potentiels liés à la discipline, à la désobéissance et à la radicalisation.
 
@@ -35,6 +35,7 @@ La gestion des questions d'immigration et de sécurité au sein des forces armé
 Liens externes :
 
 * [L’islam dans l’armée](https://journals.openedition.org/cdlm/4296), _Cahiers de la Méditerranée_ \[En ligne], 76 | 2008, mis en ligne le 23 août 2013
+* [Reportage télévisé de 1991](https://x.com/F_Desouche/status/1899167072581493226) sur les problèmes posés par les jeunes d'origine étrangère dans le cadre du service militaire.
 * [Travaux d'Elyamine Sattoul](https://strategies.cnam.fr/presentation/equipes-professorales/elyamine-settoul-959150.kjsp) sur les militaires d'origine étrangère et de confession musulmane.
 * [Refus de combattre en Afghanistan en 2009](https://www.opex360.com/2009/01/15/des-soldats-francais-musulmans-ont-refuse-de-partir-en-opex/).
 * [Les militaires français et le djihad](https://cat-int.org/wp-content/uploads/2019/12/CAT-Militaires-Djihad.pdf). Centre d'analyse du terrorisme, décembre 2019.
