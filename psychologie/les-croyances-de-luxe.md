@@ -22,4 +22,5 @@ Liens externes :
 
 * [Article de Rob Henderson](https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated) présentant les croyances de luxe (en anglais)
 * [Extrait du film La crise](https://www.youtube.com/watch?v=_FerAaiXO54) (1992). « C’est beaucoup plus facile d’être contre le racisme quand on habite à Neuilly que quand on habite à Saint-Denis. »
-* [Les croyances de luxe, entre distinction et mépris social](https://www.contrepoints.org/2021/12/22/417612-les-croyances-de-luxe-entre-distinction-et-mepris-social). Contrepoints 22 décembre 2021.
+* [Les croyances de luxe, entre distinction et mépris social](https://www.contrepoints.org/2021/12/22/417612-les-croyances-de-luxe-entre-distinction-et-mepris-social). Contrepoints, 22 décembre 2021.
+* ["La croyance de luxe, ou la nouvelle stratégie de distinction de nos élites"](https://www.lefigaro.fr/vox/societe/la-croyance-de-luxe-ou-la-nouvelle-strategie-de-distinction-de-nos-elites-20231030). Le Figaro, 30 octobre 2023.
