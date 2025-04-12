@@ -28,6 +28,7 @@
   * [Le cercle moral](psychologie/le-cercle-moral.md)
 * [Société](societe/README.md)
   * [Le "privilège blanc"](societe/le-privilege-blanc.md)
+  * [Immigration et forces armées : les risques pour la sécurité nationale](societe/immigration-et-forces-armees-les-risques-pour-la-securite-nationale.md)
 * [Les endoxes de droite](les-endoxes-de-droite/README.md)
   * [Les endoxes de droite (définition)](les-endoxes-de-droite/les-endoxes-de-droite-definition.md)
   * [Endoxe #1 : les Français de souche existent](les-endoxes-de-droite/endoxe-1-les-francais-de-souche-existent.md)
@@ -48,7 +49,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Immigration et forces armées : risques et tensions](immigration-et-forces-armees-risques-et-tensions.md)
