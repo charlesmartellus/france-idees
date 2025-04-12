@@ -1,0 +1,7 @@
+# Endoxe #8 : la nécessaire et logique union des droites
+
+Il n’y a pas de différence de nature entre droite et ce qui, par habitude, est désigné sous l'expression  « extrême-droite ». Il y a tout au plus une différence de degré (comme le fait souvent remarquer Aristote, « extrême » présuppose en effet un genre logique commun aux deux termes).
+
+Le dernier chapitre du [livre-enquête de Charles Sapin sur la montée des droites en Europe](https://video.lefigaro.fr/figaro/video/europe-jusquou-monteront-les-mouvements-nationalistes-les-explications-de-charles-sapin/) (_Les moissons de la colère_, édition Cerf, 2024) reprend cette affirmation : le terme « extrême-droite » est tellement flou et peu scientifique qu’on en trouve une trentaine d’usages possibles, se contredisant les uns les autres. Mieux vaut tout simplement le réserver aux groupuscules marginaux et ne pas l’utiliser pour qualifier les partis de droite populiste comme le RN ou de droite conservatrice comme Reconquête, qui comme nous venons de le montrer, partagent suffisamment de terrain avec le centre-droit pour appartenir à une même famille, ou en tout cas pour évoluer sur un même terrain.
+
+En conséquence, face aux dangers qui menacent les peuples européens, l'attitude responsable de la part des dirigeants est celle de l'union des droites et non d'une recherche de succès électoraliste à court terme basée sur le "barrage républicain" et l'exacerbation de différences secondaires.

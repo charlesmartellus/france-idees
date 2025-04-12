@@ -37,6 +37,7 @@
   * [Endoxe #5 : le bien commun des Français prime](les-endoxes-de-droite/endoxe-5-le-bien-commun-des-francais-prime.md)
   * [Endoxe #6 : les institutions sont des outils, non des fins](les-endoxes-de-droite/endoxe-6-les-institutions-sont-des-outils-non-des-fins.md)
   * [Endoxe #7 : l'immigration augmente la criminalité et la délinquance](les-endoxes-de-droite/endoxe-7-limmigration-augmente-la-criminalite-et-la-delinquance.md)
+  * [Endoxe #8 : la nécessaire et logique union des droites](les-endoxes-de-droite/endoxe-8-la-necessaire-et-logique-union-des-droites.md)
 
 ## Basics
 
