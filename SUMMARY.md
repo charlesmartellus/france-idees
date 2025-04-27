@@ -4,6 +4,7 @@
 * [Anthropologie et civilisations](anthropologie-et-civilisations/README.md)
   * [Etats-Unis : le mythe du melting pot et de l’assimilation](anthropologie-et-civilisations/etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
   * [WEIRD : la spécificité de l’Occident](anthropologie-et-civilisations/weird-la-specificite-de-loccident.md)
+  * [Le cosmopolitisme](anthropologie-et-civilisations/le-cosmopolitisme.md)
 * [Argumentation](argumentation/README.md)
   * [Répondre au lieu commun « le racisme n’est pas une opinion, c’est un délit »](argumentation/editor.md)
   * [Catégoriser et généraliser est un mode de pensée normal](argumentation/editor-1.md)
