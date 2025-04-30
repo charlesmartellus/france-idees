@@ -23,3 +23,9 @@ On a donc un exemple à la fois d’ingérence étrangère et de perte de souver
 **Liens externes :**
 
 * [La diaspora turque en Europe et son rôle politique](https://shs.cairn.info/magazine-questions-internationales-2018-6-page-77?lang=fr\&ref=doi), Samim Akgönül, Questions internationales n°94, 2018.
+
+
+
+Liens internes :
+
+* ["Les étrangers paient des impôts donc ils doivent voter"](les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
