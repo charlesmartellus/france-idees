@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Centre de ressources pour l'argumentation](README.md)
+* [Réinfopédia](README.md)
 * [Anthropologie et civilisations](anthropologie-et-civilisations/README.md)
   * [Etats-Unis : le mythe du melting pot et de l’assimilation](anthropologie-et-civilisations/etats-unis-le-mythe-du-melting-pot-et-de-lassimilation.md)
   * [WEIRD : la spécificité de l’Occident](anthropologie-et-civilisations/weird-la-specificite-de-loccident.md)
