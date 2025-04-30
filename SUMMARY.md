@@ -27,6 +27,7 @@
   * ["Les étrangers paient des impôts donc ils doivent voter"](philosophie-politique/les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
   * ["Il n'a pas les codes"](philosophie-politique/il-na-pas-les-codes.md)
   * [Le vrai communiste n’a jamais été essayé](philosophie-politique/le-vrai-communiste-na-jamais-ete-essaye.md)
+  * [Le droit de vote aux étrangers](philosophie-politique/le-droit-de-vote-aux-etrangers.md)
 * [Politique](politique/README.md)
   * [La créolisation](politique/la-creolisation.md)
 * [Psychologie](psychologie/README.md)
