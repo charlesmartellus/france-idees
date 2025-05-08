@@ -22,6 +22,8 @@
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
   * [Le gouvernement des juges](droit-et-institutions/le-gouvernement-des-juges.md)
   * [Laïcité et loi de 1905](droit-et-institutions/laicite-et-loi-de-1905.md)
+* [Histoire](histoire/README.md)
+  * ["L’URSS a libéré l’Europe centrale et orientale"](histoire/lurss-a-libere-leurope-centrale-et-orientale.md)
 * [Philosophie politique](philosophie-politique/README.md)
   * [Distinguer compatriote et concitoyen](philosophie-politique/distinguer-compatriote-et-concitoyen.md)
   * ["Les étrangers paient des impôts donc ils doivent voter"](philosophie-politique/les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
