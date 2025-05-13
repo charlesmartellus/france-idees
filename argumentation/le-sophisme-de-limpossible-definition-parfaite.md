@@ -8,6 +8,6 @@
 
 Il est fréquemment utilisé pour nier l’existence des peuples, de la famille, de la distinction des sexes et de tout élément naturel qui, parce qu’ils se manifestent dans la réalité, sont nécessairement soumis à des accidents, des exceptions, des cas-limites.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>« Il ne peut pas y avoir de peuples de souche ou autochtones parce qu’on trouvera toujours des ajouts »</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>« Il ne peut pas y avoir de peuples de souche ou autochtones parce qu’on trouvera toujours des ajouts »</p></figcaption></figure>
 
 Le sophisme de l’impossible définition parfaite est proche du sophisme de l’accident. Il en découle souvent.

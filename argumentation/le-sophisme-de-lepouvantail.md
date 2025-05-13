@@ -16,6 +16,6 @@ Il s’agit évidemment d’une extrapolation mensongère. Vouloir la préservat
 
 <figure><img src="../.gitbook/assets/GklPXRbXEAA_DPV.png" alt=""><figcaption><p>Connaître l'origine des gens conduit aux "théories raciales" (sous-entendu, de domination, de suprémacisme...)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Reconnaître l'évidence de la dimension biologique dans l'appartenance ethnique relève du "racisme le plus pur".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Reconnaître l'évidence de la dimension biologique dans l'appartenance ethnique relève du "racisme le plus pur".</p></figcaption></figure>
 
 **Le sophisme de l'épouvantail est utilisé par la gauche afin d'intimider ses contradicteurs et de suggérer que leur opinion est dangereuse, déviante, donc irrecevable.** L'exagération, souvent accompagnée de manifestation d'un champ lexical de l'indignation, de la vertu (auto-attribuée), vise à déplacer le débat du domaine des idées à celui de l'injonction moralisante.
