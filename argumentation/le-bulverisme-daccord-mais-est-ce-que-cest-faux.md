@@ -12,6 +12,6 @@ Dans un essai de 1941, C.S. Lewis introduit ce concept après avoir observé de 
 
 Dans le contexte politique français contemporain, ce sophisme est souvent utilisé par la gauche pour ne pas répondre aux problèmes soulevés par l’immigration et dénoncés par la droite. Elle accusera la droite de « racisme » ou d’avoir un « agenda », mais cela ne signifie pas que les problèmes n’existent pas.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Si la droite dénonce les violences sexuelles des migrants, c'est parce qu'elle a un "agenda raciste". C'est une façon de ne pas répondre à la question de la surreprésentation des immigrés dans les affaires d'agressions sexuelles.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Si la droite dénonce les violences sexuelles des migrants, c'est parce qu'elle a un "agenda raciste". C'est une façon de ne pas répondre à la question de la surreprésentation des immigrés dans les affaires d'agressions sexuelles.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Le "d'accord, mais est-ce que c'est faux" de Bouli est une façon de dénoncer le bulvérisme.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Le "d'accord, mais est-ce que c'est faux" de Bouli est une façon de dénoncer le bulvérisme.</p></figcaption></figure>
