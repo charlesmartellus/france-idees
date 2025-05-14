@@ -8,11 +8,11 @@ Imaginez-vous dans un champ. Au milieu, une vieille clôture se dresse. Vous vou
 
 Dans son livre The Thing (publié en 1929, chapitre The Drift from Domesticity), Chesterton propose une idée lumineuse : ne démolissez pas une clôture sans comprendre pourquoi elle a été construite. **Même si elle semble inutile aujourd’hui, elle a pu avoir un sens autrefois.**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ce paradoxe est repris sous une autre forme dans Hérétiques (publié en 1930) et il est tout aussi pertinent sous cette autre forme, qui est celle d'un lampadaire.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dans les deux cas, quelque chose qui semble dépassé ou inutile a pu avoir une utilité par le passé. La clôture a pu protéger des récoltes, séparer des troupeaux ou marquer une frontière. La retirer sans réfléchir pourrait ressusciter un problème oublié, enfoui dans le passé.
 
