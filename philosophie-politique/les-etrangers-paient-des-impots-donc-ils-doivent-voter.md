@@ -4,7 +4,7 @@
 
 **La gauche revendique fréquemment le droit de vote pour les étrangers**. Elle s’appuie pour cela sur l’argument selon lequel le fait qu’ils paient des impôts devraient leur donner accès à ce droit. En effet, selon elle, ils contribuent ainsi au fonctionnement du pays et, en retour, devraient avoir le droit de donner leur avis sur celui-ci.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Le droit de vote des étrangers parce qu'ils "paient des impôts" est une demande fréquente de la gauche.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Le droit de vote des étrangers parce qu'ils "paient des impôts" est une demande fréquente de la gauche.</p></figcaption></figure>
 
 **C’est pourtant une position qui ne tient pas la route et qui est pleine de contradictions.**
 

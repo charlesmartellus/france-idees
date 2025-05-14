@@ -6,7 +6,7 @@
 
 **Cette description des faits relève pourtant de la manipulation la plus éhontée et constitue une réécriture de l’histoire.**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **L’URSS était associée à l’Allemagne nazie**
 

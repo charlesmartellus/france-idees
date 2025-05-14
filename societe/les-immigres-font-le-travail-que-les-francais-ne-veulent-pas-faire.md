@@ -14,7 +14,7 @@ Selon le ministère de l’Intérieur (2019-2023) :
 * 32% concerne des étudiants et des demandes d’asile.
 * Seuls 14% des titres de séjour sont donnés pour des raisons de travail.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Le taux d’emploi des immigrés extra-européens (et de leurs descendants) est inférieur à celui des autochtones. Le taux d’emploi des immigrés en âge de travailler était environ de 50 % en 2023 (soit 15 points en-dessous de la moyenne OCDE), contre 70 % pour les autochtones. Leur taux de chômage est supérieur à 15 %, contre 7% pour la population globale.
 

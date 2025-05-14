@@ -16,11 +16,11 @@ Il y a deux idées fausses derrière cette affirmation :
 
 **L’architecture et l’urbanisme ne provoquent pas les comportements : il n’y a pas de déterminisme de l’environnement urbain**. L’architecture de barres et de tours n’est pas fondamentalement différente de celle de beaucoup de quartiers résidentiels (voir les quartiers résidentiels de Fontenay-le-Fleury ou Montmorency). De plus, des quartiers avec une architecture plus classique connaissent également des situations similaires de dégradations et de violence, comme par exemple le centre-ville de Saint-Denis. L’urbanisme moderne caractérise aussi de nombreux quartiers des pays d’Europe centrale et orientale anciennement communistes, sans que ceux-ci ne connaissent d’émeutes régulières.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Ce ne sont pas des quartiers où l’on a enfermé les immigrés dans leur communauté d’origine**. Les quartiers de banlieue sont peuplés par des habitants d’origine très diverses. Les communes « populaires » mettent d’ailleurs souvent cette diversité en avant, la présentant comme une richesse. Dès lors, l’enfermement communautaire ne vient pas d’une volonté délibérée des pouvoirs publics puisque ces quartiers sont très hétérogènes.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Le site de la ville de Saint-Denis célèbre la diversité de sa population</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Le site de la ville de Saint-Denis célèbre la diversité de sa population</p></figcaption></figure>
 
 **La gauche construit donc une caricature de la situation des « banlieues » qui ne correspond pas à la réalité**. C’est un mensonge et les conséquences qu’elles tirent de cette vision sont nécessairement fausses. Aucun des arguments avancés n’est recevable : les quartiers de banlieue ne sont pas plus éloignés du centre que d’autres, pas moins bien desservis, pas moins bien équipés…
 

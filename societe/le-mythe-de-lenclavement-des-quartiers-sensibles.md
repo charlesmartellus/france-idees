@@ -10,7 +10,7 @@
 
 A l’échelle nationale, la grande majorité de ces quartiers sont situés dans les agglomérations et sur le territoire des métropoles françaises. **Ils sont ainsi localisés dans les zones les plus riches, dynamiques, dotées en services et pourvoyeuses d’emplois du pays.** Les zones rurales ou des petites villes, celles de la « France périphérique », sont bien plus éloignées de ces avantages.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption><p>Les quartiers prioritaires de la ville (QPV) sont situés dans les villes et métropoles françaises. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption><p>Les quartiers prioritaires de la ville (QPV) sont situés dans les villes et métropoles françaises. </p></figcaption></figure>
 
 **Une bonne desserte en transports**
 
