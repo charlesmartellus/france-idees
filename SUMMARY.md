@@ -24,6 +24,8 @@
   * [Les statistiques ethniques](droit-et-institutions/les-statistiques-ethniques.md)
   * [Le gouvernement des juges](droit-et-institutions/le-gouvernement-des-juges.md)
   * [Laïcité et loi de 1905](droit-et-institutions/laicite-et-loi-de-1905.md)
+* [Économie](economie/README.md)
+  * ["L'immigration est nécessaire à la croissance économique"](economie/limmigration-est-necessaire-a-la-croissance-economique.md)
 * [Histoire](histoire/README.md)
   * ["L’URSS a libéré l’Europe centrale et orientale"](histoire/lurss-a-libere-leurope-centrale-et-orientale.md)
   * [« Les nations sont des créations modernes »](histoire/les-nations-sont-des-creations-modernes.md)
@@ -68,7 +70,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* ["L'immigration est nécessaire à la croissance économique"](limmigration-est-necessaire-a-la-croissance-economique.md)
