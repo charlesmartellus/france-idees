@@ -28,7 +28,7 @@
   * ["L'immigration est nécessaire à la croissance économique"](economie/limmigration-est-necessaire-a-la-croissance-economique.md)
 * [Histoire](histoire/README.md)
   * ["L’URSS a libéré l’Europe centrale et orientale"](histoire/lurss-a-libere-leurope-centrale-et-orientale.md)
-  * [« Les nations sont des créations modernes »](histoire/les-nations-sont-des-creations-modernes.md)
+  * ["Les nations sont des créations modernes"](histoire/les-nations-sont-des-creations-modernes.md)
 * [Philosophie politique](philosophie-politique/README.md)
   * [Distinguer compatriote et concitoyen](philosophie-politique/distinguer-compatriote-et-concitoyen.md)
   * ["Les étrangers paient des impôts donc ils doivent voter"](philosophie-politique/les-etrangers-paient-des-impots-donc-ils-doivent-voter.md)
