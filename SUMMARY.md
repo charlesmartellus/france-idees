@@ -68,3 +68,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* ["L'immigration est nécessaire à la croissance économique"](limmigration-est-necessaire-a-la-croissance-economique.md)
