@@ -6,6 +6,7 @@
   * [WEIRD : la spécificité de l’Occident](anthropologie-et-civilisations/weird-la-specificite-de-loccident.md)
   * [Le cosmopolitisme](anthropologie-et-civilisations/le-cosmopolitisme.md)
   * [L'asabiya](anthropologie-et-civilisations/lasabiya.md)
+  * [Le problème du clanisme importé en Europe](anthropologie-et-civilisations/le-probleme-du-clanisme-importe-en-europe.md)
 * [Argumentation](argumentation/README.md)
   * [Répondre au lieu commun « le racisme n’est pas une opinion, c’est un délit »](argumentation/editor.md)
   * [Catégoriser et généraliser est un mode de pensée normal](argumentation/editor-1.md)
@@ -67,7 +68,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Le problème du clanisme importé en Europe](le-probleme-du-clanisme-importe-en-europe.md)

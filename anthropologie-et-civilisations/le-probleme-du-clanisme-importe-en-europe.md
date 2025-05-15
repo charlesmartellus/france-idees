@@ -14,13 +14,13 @@ Par ailleurs, dans nos sociétés, le contact de l’individu avec l’autre est
 
 **Une grande partie des populations immigrées du Maghreb, des Proche et Moyen Orient et d’Afrique fonctionnent selon une logique clanique et l’importent avec eux en Europe.** On constate qu’en cas de litige ou de conflit, leur soutien va au membre de leur groupe, indépendamment des torts de celui-ci. On a pu le voir en France avec l’affaire Nahel, qui a reçu un soutien massif des communautés maghrébine et africaine, qui ont fait d’une affaire de délinquance un prétendu symbole d’agression contre leur groupe. Au Royaume-Uni, des Pakistanais ont pris la défense de leurs compatriotes violeurs de fillettes impliqués dans l’affaire des « grooming gangs » et ont prétendu qu’ils étaient victimes d’un récit mensonger orchestré par l’extrême-droite.
 
-<figure><img src=".gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Le clanisme des populations immigrées sape ainsi le fonctionnement des sociétés occidentales**. On le voit dans les affaires de délinquance et de criminalité, où ils prennent le parti des leurs, alors que les Européens placent le principe de justice au-dessus des intérêts de groupe. On le constate également dans le jeu démocratique. Les clans ont tendance à voter en bloc, non pas en tant qu’individu recherchant l’intérêt général de la société, mais en tant que membre d’un clan recherchant des avantages politiques, institutionnels et économiques pour sa propre jouissance. La politique devient un jeu à somme nulle où des groupes s’affrontent pour s’approprier des avantages. Les partis politiques européens sont ainsi progressivement poussés à adopter des politiques bénéficiant aux groupes claniques, qui leur apporteront massivement leurs voix. Le cas est patent en France avec l’exemple de LFI, qui milite de manière ouverte et exclusive pour l’électorat musulman.
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>Au Royaume-Uni, le fonctionnement clanique des Pakistanais est quasiment institutionnalisé à travers le système du biraderisme (voir lien ci-dessous)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Au Royaume-Uni, le fonctionnement clanique des Pakistanais est quasiment institutionnalisé à travers le système du biraderisme (voir lien ci-dessous)</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 **Le fonctionnement clanique de nombreuses sociétés extra-européennes qui se sont reconstituées sur notre sol constitue une différence ethnologique fondamentale avec le mode de fonctionnement social occidental**. Cette différence est la cause de nombreux problèmes sociétaux que nous constatons aujourd’hui. Elle est aussi un danger pour le fonctionnement de la justice, de l’économie, de la démocratie et de bon nombre d’institutions occidentales, fondées sur le libre-arbitre de l’individu et la recherche de l’intérêt général.
 
@@ -28,7 +28,7 @@ Par ailleurs, dans nos sociétés, le contact de l’individu avec l’autre est
 
 Lien interne :
 
-* Sur la consanguinité importée en Europe en raison de l'immigration : [Répondre au lieu commun "sans métissage, on finit consanguins"](demographie/repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)
+* Sur la consanguinité importée en Europe en raison de l'immigration : [Répondre au lieu commun "sans métissage, on finit consanguins"](../demographie/repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)
 
 Lien externe :
 
