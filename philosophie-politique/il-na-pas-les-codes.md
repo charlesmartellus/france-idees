@@ -6,7 +6,7 @@ Il arrive fréquemment que, pour tenter de défendre ou disculper des immigrés 
 
 « Il n’a pas les codes culturels » est une façon d’atténuer la faute et d’obtenir un jugement plus clément : ce qu’il a fait est normal dans son pays et ce n’est que par ignorance de la culture locale qu’il l’a fait en France.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cet argument pose de profonds problèmes et constitue une forme de préférence étrangère.
 

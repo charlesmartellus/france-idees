@@ -1,12 +1,12 @@
-# « Les nations sont des créations modernes »
+# "Les nations sont des créations modernes"
 
 ### L’affirmation selon laquelle les nations sont des créations contemporaines et artificielles est une posture idéologique de gauche qui ne correspond pas à la réalité historique et qui sert un discours politique.
 
 **L’affirmation selon laquelle les nations sont des créations contemporaines est un lieu commun propagé par la gauche et largement accepté**. Elle a pour but de propager l’idée que les nations sont artificielles, voire des créations cyniques visant à faire naitre un faux sentiment d’appartenance commune pour servir des visées politiques. Elles auraient été créées dans le courant du 19<sup>e</sup> siècle et ne correspondrait à aucune réalité sociale ou culturelle préexistante.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Ces affirmations trouvent leurs sources dans l’approche moderniste de l’étude historique des nations, un champ important depuis les années 1980**. Pour cette approche, les nations et le nationalisme, sont des phénomènes qui n’émergent qu’avec la modernité tardive, à partir de la fin du 18<sup>e</sup> siècle, en particulier avec la Révolution française. On peut citer à ce propos l’ouvrage du célèbre historien marxiste Eric Hobsbawm _Nation et nationalisme depuis 1780_.
 

@@ -4,31 +4,31 @@
 
 Vols sans violence :
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Vols violents :
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Affaires de stupéfiants :
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Agressions :
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Violences sexuelles :
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Féminicides et violences conjugales :
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Les taux de criminalité varient selon l’origine des étrangers. Par exemple, dans les violences contre les personnes, les étrangers originaires du continent africain sont les plus surreprésentés.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Cette surreprésentation des personnes originaires du continent africain se retrouve dans toutes les catégories de crimes et délits.
 
