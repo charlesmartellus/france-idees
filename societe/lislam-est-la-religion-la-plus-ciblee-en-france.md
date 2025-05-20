@@ -4,11 +4,11 @@
 
 **La gauche développe un discours qui décrit la France comme un pays où la haine des musulmans constituerait un des piliers de la vie sociale et politique**. Ce qu’elle nomme « islamophobie » serait « structurelle », c’est-à-dire consubstantielle à la société, voire à l’administration et à l’Etat.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Ce discours est à la fois la manifestation d’une idéologie et d’un calcul électoral**. Il traduit l’idéologie de gauche fondée sur une lecture de la société basée sur l’opposition entre oppresseur et opprimées. Les musulmans seraient le groupe opprimé par excellence, victime à la fois de racisme, de marginalisation économique et de mépris culturel. Ce discours est aussi la mise en œuvre propagandiste du choix par la gauche des minorités, parmi lesquelles les musulmans, comme réservoir de voix et vivier électoral. **Cette stratégie, définie dans les années 1990 par le think tank Terra Nova est aujourd’hui radicalisée par des partis comme LFI, qui développe un discours communautariste extrêmement favorable aux musulmans**.
 
