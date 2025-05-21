@@ -53,6 +53,7 @@
   * ["L'ensauvagement" de la France](societe/lensauvagement-de-la-france.md)
   * [La surreprésentation des étrangers dans les crimes et délits](societe/la-surrepresentation-des-etrangers-dans-les-crimes-et-delits.md)
   * ["L’islam est la religion la plus ciblée en France"](societe/lislam-est-la-religion-la-plus-ciblee-en-france.md)
+  * [Communautés étrangères et risques de conflits civils](societe/communautes-etrangeres-et-risques-de-conflits-civils.md)
 * [Les endoxes de droite](les-endoxes-de-droite/README.md)
   * [Les endoxes de droite (définition)](les-endoxes-de-droite/les-endoxes-de-droite-definition.md)
   * [Endoxe #1 : les Français de souche existent](les-endoxes-de-droite/endoxe-1-les-francais-de-souche-existent.md)
