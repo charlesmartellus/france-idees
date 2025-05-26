@@ -8,11 +8,11 @@
 
 De même, de nombreuses situations de fraudes ou de vols ne sont pas résolues par l’Etat, souvent en raison des lois de protection des individus qu’il a lui-même adoptées et qui paralysent son action. C’est par exemple le cas des logements squattés, thématique qui revient souvent.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Enfin, le laxisme de la justice favorise l’impunité des délinquants et criminels. Celle-ci est la conséquence de lois trop peu punitives ([suppression des peines plancher](https://www.lemonde.fr/societe/article/2014/06/05/les-deputes-suppriment-les-peines-planchers_4433100_3224.html), peines aménagées, libérations conditionnelles…), de l’idéologie dominante au sein de la magistrature et d’une complexité réglementaire favorisant les vices de procédures et bénéficiant donc aux suspects.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **A contrario, les citoyens honnêtes, obéissants et solvables sont de plus en plus victimes de tracasseries de la part de l’Etat**, qui multiplient à leur endroit les mesures coercitives et vexatoires. Pour eux, la justice est rapide et implacable.
 

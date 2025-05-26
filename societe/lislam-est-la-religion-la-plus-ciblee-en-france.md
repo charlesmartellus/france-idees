@@ -4,9 +4,9 @@
 
 **La gauche développe un discours qui décrit la France comme un pays où la haine des musulmans constituerait un des piliers de la vie sociale et politique**. Ce qu’elle nomme « islamophobie » serait « structurelle », c’est-à-dire consubstantielle à la société, voire à l’administration et à l’Etat.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
