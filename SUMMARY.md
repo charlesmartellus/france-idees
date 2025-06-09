@@ -8,6 +8,7 @@
   * [L'asabiya](anthropologie-et-civilisations/lasabiya.md)
   * [Le problème du clanisme importé en Europe](anthropologie-et-civilisations/le-probleme-du-clanisme-importe-en-europe.md)
   * [L’ethnomasochisme](anthropologie-et-civilisations/lethnomasochisme.md)
+  * [Les sources du terrorisme musulman](anthropologie-et-civilisations/les-sources-du-terrorisme-musulman.md)
 * [Argumentation](argumentation/README.md)
   * [Répondre au lieu commun « le racisme n’est pas une opinion, c’est un délit »](argumentation/editor.md)
   * [Catégoriser et généraliser est un mode de pensée normal](argumentation/editor-1.md)
