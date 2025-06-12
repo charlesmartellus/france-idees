@@ -42,6 +42,7 @@
 * [Politique](politique/README.md)
   * [La créolisation](politique/la-creolisation.md)
   * [L’anarcho-tyrannie](politique/lanarcho-tyrannie.md)
+  * ["Le vote RN n'est pas informé"](politique/le-vote-rn-nest-pas-informe.md)
 * [Psychologie](psychologie/README.md)
   * [L'émotivisme](psychologie/lemotivisme.md)
   * [Le cercle moral](psychologie/le-cercle-moral.md)
