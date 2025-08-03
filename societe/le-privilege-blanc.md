@@ -32,6 +32,8 @@ En conséquence, on le voit, il n’y a pas de spoliation originelle. Les Blancs
 
 **La dénonciation d’un « privilège blanc » de la part de la gauche correspond plutôt à une tentative de mobiliser le ressentiment post-colonial des extra-Européens et à le transposer dans les contextes des sociétés européennes contemporaines pour obtenir, par le chantage moral, des avantages politiques et économiques** (les réparations, la discrimination positive, etc). Pour justifier cette position absurde, la gauche fabrique des concepts qu’elle est la seule à reconnaitre, comme le « racisme systémique » et qui sont plus des actes d’accusation que des réalités sociales.
 
+
+
 Liens externes :
 
 * [Discours raciste anti-Blancs de Humza Yusaf](https://www.youtube.com/watch?v=FI3JBBlmej4)
@@ -39,6 +41,5 @@ Liens externes :
 
 Liens internes :
 
-* la colonisation a plus coûté qu'elle n'a rapporté
-* la discrimination positive
-* le "racisme systémique"
+* ["Les immigrés font le travail que les Français ne veulent pas faire"](les-immigres-font-le-travail-que-les-francais-ne-veulent-pas-faire.md)
+* [La surreprésentation des étrangers dans les crimes et délits](la-surrepresentation-des-etrangers-dans-les-crimes-et-delits.md)
