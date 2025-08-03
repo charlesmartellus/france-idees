@@ -10,6 +10,8 @@ Nous sommes parfaitement dans notre droit quand nous refusons d’accueillir ou 
 
 Quelques positions idéologiques associées à cette endoxe : le catholique de droite dira que nos devoirs d’humanité envers les étrangers demeurent réels (mais le plus souvent secondaires vis-à-vis de nos devoirs envers les nôtres et nos institutions) ; les identitaires nieront tout type de devoir envers les étrangers.
 
-Liens externes :
+
+
+Voir aussi (liens externes) :
 
 * [Intervention de JD Vance à propos de l'ordo amoris](https://apnews.com/article/jd-vance-catholic-theology-migration-e868af574fb2e742c6ed3d756c569769) (30/01/2025)

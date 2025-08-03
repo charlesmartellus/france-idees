@@ -10,6 +10,8 @@ Cette hiérarchisation perverse qui consiste à faire passer les considérations
 
 Les positions idéologiques secondaires associées à cette endoxe peuvent varier : le républicain de centre-droit reconnaîtra que le fascisme et le racisme restent des catégories morales valides mais simplement pas toujours pertinentes ; l’identitaire niera entièrement leur pertinence.
 
-Liens externes :
+
+
+Voir aussi (liens externes) :
 
 * [Gangs de violeurs au Royaume-Uni : Elon Musk brise 40 ans de silence](https://www.lejdd.fr/international/gangs-de-violeurs-au-royaume-uni-elon-musk-brise-quarante-ans-de-silence-153884). "Des viols jusque-là passés sous silence sous le prétexte inouï de ne pas alimenter le racisme outre-Manche." Le JDD, 17/01/2025.&#x20;

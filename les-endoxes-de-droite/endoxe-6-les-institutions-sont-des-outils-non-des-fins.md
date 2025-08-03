@@ -8,6 +8,8 @@
 
 Le droit est subordonné aux considérations morales mais pas dans le sens où le pensent les gens de gauche, qui l’utilisent comme arme pour intimider leurs adversaires plutôt que comme instrument au service du bien commun.
 
-Liens internes :
+
+
+Voir aussi (liens internes) :
 
 * [Le gouvernement des juges](../droit-et-institutions/le-gouvernement-des-juges.md)

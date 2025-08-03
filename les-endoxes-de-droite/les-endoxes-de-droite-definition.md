@@ -10,11 +10,15 @@ L’idée des endoxes est donc de rendre explicites ces prémisses de droite, de
 
 Une exigence méthodologique préliminaire nécessite de bien faire la différence entre ces endoxes basiques et les propositions plus « idéologiquement » poussées. Par exemple, la propriété privée libre est une endoxe de droite, mais le libre-échange dérégulé est une proposition idéologique libertarienne. Les propositions « idéologiques » s’adressent nécessairement à moins de monde et sont souvent trop radicales pour le grand public. Ceci dit, aucune personne de droite n’adhère jamais aux _endoxa_ seules : nous adhérons tous aussi à des propositions idéologiques sur les sujets qui nous intéressent, et c’est parfaitement normal. Mais il est important de garder cette distinction endoxe/idéologie à l’esprit pour avoir en tête ce qui peut unir au-delà des dissensions, et quelles positions distinguent la droite du centre et de la gauche.
 
-Liens internes :
+
+
+Voir aussi (liens internes) :
 
 * [Endoxe #1](endoxe-1-les-francais-de-souche-existent.md) : les Français de souche existent
 
-Liens externes
+
+
+Voir aussi (liens externes) :
 
 * [Fil twitter de Gugus Bontaquin](https://x.com/gugus_bontaquin/status/1886718193713995785) présentant l'idée des endoxes
 * [Qu'est-ce qu'être de droite en 2025 ?](https://www.atlantico.fr/article/decryptage/quest-ce-quetre-de-droite-en-2025-France-Etats-Unis-democratie-citoyens-valeurs-Trump-Musk-Retailleau-Wauquiez-endoxes-themes-immigration-sondages-opinion-republicains-gauche-Gugus-Bontaquin) par Gugus Bontaquin. Atlantico, 23/03/2025

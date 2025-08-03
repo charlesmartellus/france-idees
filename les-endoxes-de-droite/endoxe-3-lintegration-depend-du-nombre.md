@@ -16,7 +16,9 @@ Cas de l'islam :
 
 Ces différences anthropologiques et culturelles fondamentales doivent être prises en compte pour ce qu’elles sont : des systèmes objectivement incompatibles.
 
-Liens externes :
+
+
+Voir aussi (liens externes) :
 
 * Echec de l'assimilation : [78% des musulmans considèrent que la laïcité française est islamophobe](https://www.lefigaro.fr/actualite-france/78-des-musulmans-considerent-que-la-laicite-francaise-est-islamophobe-20231208).
 * [Entretien de Pierre Manent à propos du rapport entre nombre d'immigrés et intégration](https://video.lefigaro.fr/figaro/video/la-pression-est-telle-quil-faut-prendre-des-decisions-concernant-le-nombre-de-musulmans-en-europe-previent-pierre-manent/). Le Figaro TV, 09/12/2024.
