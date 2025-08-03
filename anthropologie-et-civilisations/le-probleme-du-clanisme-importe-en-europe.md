@@ -26,9 +26,12 @@ Par ailleurs, dans nos sociétés, le contact de l’individu avec l’autre est
 
 
 
-Voir aussi :
-
-
+Voir aussi (liens internes) :
 
 * Sur la consanguinité importée en Europe en raison de l'immigration : [Répondre au lieu commun "sans métissage, on finit consanguins"](../demographie/repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)
+
+
+
+Voir aussi (liens externes) :
+
 * [Fil twitter sur le système familial des Pakistanais](https://x.com/maxguimard/status/1875215945721118984) (Maxime Guimard)

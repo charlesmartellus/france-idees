@@ -36,7 +36,7 @@ Ainsi, l’ethnomasochisme est une perversion de la capacité des sociétés occ
 
 
 
-Voir aussi :
+Voir aussi (liens internes) :
 
 * [Le cosmopolitisme](le-cosmopolitisme.md)
 * [WEIRD : la spécificité de l'Occident](weird-la-specificite-de-loccident.md)

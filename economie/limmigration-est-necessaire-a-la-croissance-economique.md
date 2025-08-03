@@ -36,7 +36,7 @@ Ainsi, contrairement au lieu commun largement diffusé, l’immigration en prove
 
 
 
-Voir aussi :
+Voir aussi (liens externes) :
 
 * Fil X de @Polydamas présentant les [résultats d'une étude à l'échelle européenne de l'impact fiscal de l'immigration](https://x.com/Polydamas/status/1884558762872013102).
 * Fil X de @marc\_vanguard sur les chiffres clé du [rapport de l'immigration en France et du travail](https://x.com/marc_vanguard/status/1922011515550314858).

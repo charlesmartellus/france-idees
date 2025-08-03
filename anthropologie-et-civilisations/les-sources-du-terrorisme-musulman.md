@@ -20,8 +20,7 @@ Qu’il s’agisse d’Ibn Taymiyyah, d’Ibn Abd al-Wahhab ou d’innombrables 
 
 
 
-Voir aussi :
+Voir aussi  (liens externes) :
 
 * [Rethinking the roots of Islamic Terrorism](https://x.com/DanBurmawy/status/1928861744287432922) (article d'origine de Dan Burmawi, 2025)
 * [Repenser les sources du terrorisme islamique](https://onedrive.live.com/:w:/g/personal/6AEDA9FA5F94F229/EbGPOmAa6itAqjnhyZY0h5EBMRTSsz72KdjuFchd8dsywQ?resid=6AEDA9FA5F94F229!s603a8fb1ea1a402baa39e1c996348791\&ithint=file%2Cdocx\&e=0VUfep\&migratedtospo=true\&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy82YWVkYTlmYTVmOTRmMjI5L0ViR1BPbUFhNml0QXFqbmh5WlkwaDVFQk1SVFNzejcyS2RqdUZjaGQ4ZHN5d1E_ZT0wVlVmZXA) (traduction française, 2025)
-

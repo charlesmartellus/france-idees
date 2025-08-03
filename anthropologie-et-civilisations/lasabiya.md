@@ -24,6 +24,6 @@ La notion d’asabiya peut nous éclairer sur des dynamiques en cours en Europe,
 
 
 
-Voir aussi :&#x20;
+Voir aussi (liens externes) :&#x20;
 
 * [Présentation de l'ouvrage](https://www.herodote.net/Comment_ils_surgissent_comment_ils_s_effondrent-article-1544.php) _Brève histoire des empires_ sur le site Herodote.

@@ -32,6 +32,6 @@ La comparaison est souvent faite avec les immigrations européennes les moins fa
 
 
 
-Voir aussi :
+Voir aussi (liens externes) :
 
 * [The Assimilation Myth : America. Persistence and Not-So Melting Pot](https://inquisitivebird.xyz/p/the-assimilation-myth-america?utm_source=share\&utm_medium=android\&r=3o73sw\&triedRedirect=true). Inquisitive Bird, 10/04/2025.

@@ -32,7 +32,7 @@ Les populations européennes sont donc aujourd’hui à un croisement, puisqu’
 
 
 
-Voir aussi :
+Voir aussi (liens externes) :
 
 * [The weirdest people in the world](https://www.chaireeconomieduclimat.org/points-de-vue/la-chaire-a-lu-pour-vous-the-weirdest-people-in-the-world-de-joseph-henrich/) (fiche de lecture, La chaire économie du climat)
 * [Le dilemne du passage](https://x.com/guillaume_ggc/status/1709978065332265372) (fil X de Guillaume Gau)
