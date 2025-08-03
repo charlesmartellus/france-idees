@@ -32,7 +32,7 @@ En conclusion, le discours sur la responsabilité de l’environnement urbain da
 
 
 
-Liens externes :
+Voir aussi (liens externes) :
 
 * [Reportage du sociologue Paul-Henry Chombart de Lauwe](https://madelen.ina.fr/content/la-butte-a-la-reine-77263?locale=fr) sur les premiers grands ensembles
 * [Fil X avec des exemples](https://x.com/norbert_fr/status/1744821223853273523) montrant qu'il n'y a pas de lien entre environnement urbain et émeutes.

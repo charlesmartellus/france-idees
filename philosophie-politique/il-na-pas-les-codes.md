@@ -17,7 +17,3 @@ C’est d’autant plus une rupture d’égalité que **les Français ne peuvent
 **Cet argument n’est pas recevable non plus au titre du principe « nul n’est censé ignorer la loi »**. L’écart culturel qui conduit à ne pas connaître les lois du pays ne peut donc pas être retenu comme un argument, parce que la loi s’applique, que les individus en aient connaissance ou non. L’ignorance des coutumes et lois du pays d’accueil ne décharge pas l’immigré de sa responsabilité.
 
 L’argument selon lesquels ne pas posséder les codes culturels français constitue une circonstance atténuante est donc fallacieux. Il traduit l’idéologie de la préférence étrangère et sous-entend que les Français sont des justiciables de second ordre, qui peuvent être légitimement punis plus lourdement que les étrangers pour les mêmes actes.
-
-Liens internes :
-
-* la préférence étrangère

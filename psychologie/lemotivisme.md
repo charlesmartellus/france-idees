@@ -24,6 +24,6 @@
 
 
 
-Liens :
+Voir aussi (liens externes) :
 
 * [Fil twitter expliquant l'émotivisme à partir du film Plesantville](https://x.com/norbert_fr/status/1891581543266562059)

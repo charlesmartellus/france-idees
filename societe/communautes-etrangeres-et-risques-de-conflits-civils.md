@@ -68,7 +68,7 @@ Conclusion
 
 
 
-Liens internes :
+Voir aussi (liens internes) :
 
 * [Le multiculturalisme contre la démocratie](le-multiculturalisme-contre-la-democratie.md)
 * [Distinguer compatriote et concitoyen](../philosophie-politique/distinguer-compatriote-et-concitoyen.md)
@@ -77,6 +77,6 @@ Liens internes :
 
 
 
-Lienx externes :
+Voir aussi (liens externes) :
 
 * [An India-Pakistan war could break British politics](https://knightsofthegreenshield.substack.com/p/an-india-pakistan-war-could-break), article sur les risques d'affrontements intercommunautaire au Royaume-Uni, Sam Bidwell, 18/04/2025

@@ -30,6 +30,8 @@ La comparaison est souvent faite avec les immigrations européennes les moins fa
 
 **En conclusion, le mythe américain du&#x20;**_**melting pot**_**&#x20;et de l’assimilation réussie à la nation d’accueil comprend une grande part de récit qu’il convient de remettre en perspective**. Ce récit occulte un grand nombre de biais et de faits. Or les pays européens développent aujourd’hui un récit symétrique, celui de l’assimilation par les « valeurs » et le « vivre-ensemble » et il semble patent qu’il est sinon plus, du moins aussi illusoire que celui du _melting pot_ américain.
 
-Liens :
+
+
+Voir aussi :
 
 * [The Assimilation Myth : America. Persistence and Not-So Melting Pot](https://inquisitivebird.xyz/p/the-assimilation-myth-america?utm_source=share\&utm_medium=android\&r=3o73sw\&triedRedirect=true). Inquisitive Bird, 10/04/2025.

@@ -30,7 +30,9 @@ L’immigration de masse a conduit à l’installation en Occident de population
 
 Les populations européennes sont donc aujourd’hui à un croisement, puisqu’elles vont devoir réinventer leur rapport à la société pour intégrer la nouvelle situation communautaire, qui modifie radicalement le fonctionnement démocratique et social hérité de leur histoire.
 
-Liens externes :
+
+
+Voir aussi :
 
 * [The weirdest people in the world](https://www.chaireeconomieduclimat.org/points-de-vue/la-chaire-a-lu-pour-vous-the-weirdest-people-in-the-world-de-joseph-henrich/) (fiche de lecture, La chaire économie du climat)
 * [Le dilemne du passage](https://x.com/guillaume_ggc/status/1709978065332265372) (fil X de Guillaume Gau)

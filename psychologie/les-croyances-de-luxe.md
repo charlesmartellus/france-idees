@@ -18,7 +18,9 @@ Ainsi, les grands patrons font la promotion d’une humanité hyper connectée e
 
 **Les croyances de luxe sont ainsi des marqueurs d’appartenance de classe, adoptées par des personnes voulant tirer un profit social de leur expression, tout en étant préservés des conséquences de leur mise en œuvre.**
 
-Liens externes :
+
+
+Voir aussi (liens externes) :
 
 * [Article de Rob Henderson](https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated) présentant les croyances de luxe (en anglais)
 * [Extrait du film La crise](https://www.youtube.com/watch?v=_FerAaiXO54) (1992). « C’est beaucoup plus facile d’être contre le racisme quand on habite à Neuilly que quand on habite à Saint-Denis. »

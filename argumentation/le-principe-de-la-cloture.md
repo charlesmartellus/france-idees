@@ -24,6 +24,6 @@ Chesterton nous invite ainsi à la prudence : détruire sans comprendre, c’est
 
 
 
-Lien externe :
+Voir aussi :
 
 * [Fil X de @KovizMos](https://x.com/KovitzMos/status/1899072196141572307) sur le principe de la clôture.

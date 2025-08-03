@@ -28,6 +28,6 @@ Ainsi, malgré les dénégations clientélistes, la violence envers les personne
 
 
 
-Lien externe :
+Voir aussi (liens externes) :
 
 * [Fil de Marc Vanguard sur la criminalité et la délinquance en France](https://marc-vanguard.com/status/1805626364688502830/)

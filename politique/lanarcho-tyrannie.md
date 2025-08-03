@@ -24,7 +24,7 @@ Les exemples d’application de mesures strictes, voire liberticides, envers les
 
 
 
-Liens internes :
+Voir aussi (liens internes) :
 
 * [Le gouvernement des juges](../droit-et-institutions/le-gouvernement-des-juges.md)
 * [Le problème du clanisme importé en Europe](../anthropologie-et-civilisations/le-probleme-du-clanisme-importe-en-europe.md)

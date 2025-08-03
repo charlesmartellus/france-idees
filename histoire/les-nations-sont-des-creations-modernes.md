@@ -20,6 +20,12 @@ Les historiens modernistes estiment que, puisque la nation n’était pas concep
 
 
 
-**Liens externes :**
+Voir aussi (liens externes) :
 
 * [Folk beliefs of the Upper Normie : "Nations are modern creations"](https://www.willsolfiac.com/p/folk-beliefs-of-the-upper-normie), Will Sofiac
+
+
+
+Voir aussi (liens internes) :
+
+* [Distinguer compatriote et concitoyen](../philosophie-politique/distinguer-compatriote-et-concitoyen.md)

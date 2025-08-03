@@ -42,6 +42,6 @@ En conclusion, les chiffres officiels des ministères de la Justice et de l’In
 
 
 
-Lien externe :
+Voir aussi (liens externes) :
 
 * [Fil de Marc Vanguard sur la part d'étrangers dans les crimes et délits en France](https://marc-vanguard.com/status/1729548796453851383/)

@@ -32,7 +32,7 @@ La gestion des questions d'immigration et de sécurité au sein des forces armé
 
 
 
-Liens externes :
+Voir aussi (liens externes) :
 
 * [L’islam dans l’armée](https://journals.openedition.org/cdlm/4296), _Cahiers de la Méditerranée_ \[En ligne], 76 | 2008, mis en ligne le 23 août 2013
 * [Reportage télévisé de 1991](https://x.com/F_Desouche/status/1899167072581493226) sur les problèmes posés par les jeunes d'origine étrangère dans le cadre du service militaire.

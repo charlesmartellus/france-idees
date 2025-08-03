@@ -38,7 +38,7 @@ L’occupation soviétique des pays d’Europe centrale et orientale n’a pas �
 
 
 
-Liens externes :
+Voir aussi (liens externes) :
 
 * [Coopération économique](https://wszystkoconajwazniejsze.pl/pepites/le-23-aout-1939-signature-du-pacte-germano-sovietique/) dans le cadre du Pacte de non-agression
 * [Staline ne croyait pas en une attaque allemande](https://www.lepoint.fr/monde/richard-sorge-l-espion-que-staline-n-a-pas-cru-11-10-2020-2395835_24.php#11)

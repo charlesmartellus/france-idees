@@ -42,7 +42,7 @@ Puisque notre naissance n’est pas un hasard, nous nous incarnons dans un envir
 
 
 
-Liens internes :
+Voir aussi (liens internes) :
 
 * [Le cercle moral](../psychologie/le-cercle-moral.md)
 * [Le multiculturalisme contre la démocratie](../societe/le-multiculturalisme-contre-la-democratie.md)

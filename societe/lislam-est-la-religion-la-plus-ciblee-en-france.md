@@ -32,13 +32,13 @@ Ainsi, on voit que l’islam n’est pas un dogme spécifiquement visé en Franc
 
 
 
-Liens internes :
+Voir aussi (liens internes) :
 
 * [Le multiculturalisme contre la démocratie](le-multiculturalisme-contre-la-democratie.md)
 * [Le problème du clanisme importé en Europe](../anthropologie-et-civilisations/le-probleme-du-clanisme-importe-en-europe.md)
 
 
 
-Liens externes :
+Voir aussi (liens externes) :
 
 * [La "haine antimusulmane", "menace majeure pour notre République"](https://www.lemonde.fr/societe/article/2025/04/30/une-plateforme-de-signalement-contre-la-haine-antimusulmane-menace-majeure-pour-notre-republique_6601860_3224.html). Article du Monde, 30 avril 2025.

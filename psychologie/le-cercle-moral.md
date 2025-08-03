@@ -28,7 +28,7 @@ En conclusion, la théorie du cercle moral montre des différences de sensibilit
 
 
 
-Liens :
+Voir aussi (liens externes) :
 
 * [Fil twitter de Marc Vanguard présentant le concept de cercle moral](https://x.com/marc_vanguard/status/1902043557688406194)
 * [Article scientifique sur le cercle moral](https://www.nature.com/articles/s41467-019-12227-0#citeas). Waytz, A., Iyer, R., Young, L. _et al._ Ideological differences in the expanse of the moral circle. _Nat Commun_ 10, 4389 (2019).

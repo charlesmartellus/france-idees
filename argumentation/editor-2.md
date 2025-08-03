@@ -30,7 +30,6 @@ Le progressisme va aujourd’hui de pair avec le multiculturalisme. Or c’est l
 
 
 
-Liens :&#x20;
+Voir aussi :&#x20;
 
 * Les ambiguïtés de la gauche sur le [voilement des fillettes](https://x.com/FredericLefevre/status/1441805281575329805?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1441824727593488389%7Ctwgr%5E56e6347a4ee57c0bf1f73a7781a45d71736085ea%7Ctwcon%5Es4_\&ref_url=https%3A%2F%2Fwww.liberation.fr%2Fchecknews%2Fle-candidat-lfi-david-guiraud-a-t-il-dit-que-le-voilement-des-fillettes-est-parfaitement-legitime-comme-le-pretend-marine-le-pen-20240702_ZIT4H5UTXFDFXAWNBPI3IPOWNI%2F)
-*

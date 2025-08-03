@@ -22,7 +22,7 @@ Cette liste d’exemples historiques et récents de remigrations n’est pas exh
 
 
 
-Voir aussi
+Voir aussi (liens internes) :
 
 * [Distinguer compatriote et concitoyen](../philosophie-politique/distinguer-compatriote-et-concitoyen.md)
 * [L'oïkophilie](../philosophie-politique/loikophilie.md)

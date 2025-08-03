@@ -21,3 +21,9 @@ Mais le sophisme central de Mélenchon dans l’utilisation du mot et la pervers
 Ainsi, au cœur de l’utilisation de ce terme, il y a la manipulation qui consiste à opérer une transition d’une situation périphérique à une situation centrale. Autant la créolisation qui s’est opérée dans les Antilles n’a pas menacé le peuplement français de souche, autant la **créolisation dans la France contemporaine aboutirait au mélange et à la dissolution du peuple français** au sens ethnique, historique et culturel. Il aboutirait donc à sa disparition.
 
 De la même manière que le métissage s’oppose à la diversité, la créolisation générale ne peut avoir lieu que par l’éradication des peuples qu’on appelle à se mélanger. Elle est donc indissociablement liée à une volonté ethnocide, qui est au cœur du programme de la gauche.
+
+
+
+Voir aussi (liens internes) :
+
+* [Répondre au lieu commun "Sans métissage, on finit consanguin"](../demographie/repondre-au-lieu-commun-sans-metissage-on-finit-consanguins.md)

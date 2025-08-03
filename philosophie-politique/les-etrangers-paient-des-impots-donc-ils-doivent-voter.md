@@ -17,3 +17,9 @@ Si le droit de vote découlait de l’impôt, **il faudrait établir une distinc
 Enfin, si l’impôt déterminait le droit de voter, alors **la vision de la communauté civique serait équivalente à celle d’une oligarchie, avec des droits supplémentaires pour les plus riches.** Ce serait en somme une société fondée sur l’argent et non sur l’égalité fondamentale des individus. Cela est totalement incohérent avec ce que prétend défendre la gauche.
 
 Au nom d’une égalité mal comprise, la gauche soutient une mesure qui est pleine de contradictions. **Il est possible qu’il y ait en réalité derrière cette prétendue mesure de justice la volonté de faire accéder au corps civique des individus dont elle pense pouvoir capter les voix. C’est aussi un outil au service de son projet universaliste et de destruction de l’Etat-Nation français.**
+
+
+
+Voir aussi (liens internes) :
+
+* [Le droit de vote aux étrangers](le-droit-de-vote-aux-etrangers.md)
