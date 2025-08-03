@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # "l’extrême-droite est l’alliée objective de l’islamisme, car ils sont tous les deux conservateurs"
 
 ### **L’extrême-droite n’est pas l’alliée des islamistes car leurs conservatismes respectifs ne sont pas situés dans les mêmes paradigmes culturels et politiques. Ces deux conservatismes s’excluent mutuellement. L’extrême-droite est au contraire la seule position intrinsèquement opposée à l’islamisme.**
@@ -38,7 +24,7 @@ Le progressisme va aujourd’hui de pair avec le multiculturalisme. Or c’est l
 
 **Que répondre ?**
 
-**Le rapprochement entre conservateurs d’extrême-droite et conservateurs musulmans est superficiel et fallacieux** : l’inspiration, le contenu et les méthodes des deux conservatismes sont intrinsèquement différents. Le premier est d’inspiration catholique, il respecte donc la laïcité, la liberté de conscience, l’égale dignité des femmes, la liberté d’existence et d’action des homosexuels. Ses méthodes s’arrêtent à l’activisme politique et à l’influence culturelle : les moyens violents sont proscrits depuis longtemps. Le deuxième est d’inspiration musulmane et ne reconnaît donc pas de distinction franche entre le religieux et le non-religieux. Il ne reconnaît pas l’égale dignité de la femme, ne respecte pas la liberté de conscience (l’apostasie est interdite, l’exercice d’une religion étrangère est soumis à des conditions), ne respecte pas l’intégrité physique des homosexuels. Ses méthodes ne rejettent pas la violence et la considèrent même parfois comme moyen légitime (le djihad défensif).
+**Le rapprochement entre conservateurs d’extrême-droite et conservateurs musulmans est superficiel et fallacieux** : l’inspiration, le contenu et les méthodes des deux conservatismes sont intrinsèquement différents. Le premier respecte la laïcité, la liberté de conscience, l’égale dignité des femmes, la liberté d’existence et d’action des homosexuels. Ses méthodes s’arrêtent à l’activisme politique et à l’influence culturelle : les moyens violents sont proscrits depuis longtemps. Le deuxième est d’inspiration musulmane et ne reconnaît donc pas de distinction franche entre le religieux et le non-religieux. Il ne reconnaît pas l’égale dignité de la femme, ne respecte pas la liberté de conscience (l’apostasie est interdite, l’exercice d’une religion étrangère est soumis à des conditions), ne respecte pas l’intégrité physique des homosexuels. Ses méthodes ne rejettent pas la violence et la considèrent même parfois comme moyen légitime (le djihad défensif).
 
 **Le conservatisme sociétal des personnes issues de l’immigration passe au second plan vis-à-vis de leurs intérêts communautaires.** Les islamistes, plus conservateurs que les Français à tous les niveaux, votent pour le parti d’extrême-gauche le plus progressiste qui soit : LFI. Leur « antiracisme » n’est que la défense d’intérêts communautaires : le droit du port du voile, de l’abaya, de l’arabe dans la rue, de la soumission de la femme, de l’interdiction des homosexuels, des tribunaux islamiques ; choses qu’ils obtiendront plus facilement dans un pays multiculturel que dans un pays d’extrême-droite. Le vrai allié de l’islamisme est donc le multiculturalisme du centre et de la gauche, pas l’extrême-droite.
 
