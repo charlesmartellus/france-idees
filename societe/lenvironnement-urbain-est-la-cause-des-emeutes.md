@@ -22,7 +22,7 @@ Il y a deux idées fausses derrière cette affirmation :
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Le site de la ville de Saint-Denis célèbre la diversité de sa population</p></figcaption></figure>
 
-**La gauche construit donc une caricature de la situation des « banlieues » qui ne correspond pas à la réalité**. C’est un mensonge et les conséquences qu’elles tirent de cette vision sont nécessairement fausses. Aucun des arguments avancés n’est recevable : les quartiers de banlieue ne sont pas plus éloignés du centre que d’autres, pas moins bien desservis, pas moins bien équipés…
+**La gauche construit donc une image de la situation des « banlieues » qui ne correspond pas à la réalité**. C’est un mensonge et les conséquences qu’elles tirent de cette vision sont nécessairement fausses. Aucun des arguments avancés n’est recevable : les quartiers de banlieue ne sont pas plus éloignés du centre que d’autres, pas moins bien desservis, pas moins bien équipés…
 
 **La gauche opère une inversion de la cause et de l’effet**. Si les populations immigrées de ces quartiers sont communautarisées, c’est parce qu’elles ont mis en place un mode de vie qui correspond à leurs habitudes culturelles. Ce mode de vie, différent de celui des Européens, a poussé ces derniers à partir pour s’installer dans des quartiers où ils n’auraient pas à le subir. C’est une culture tribale et communautaire et non l’environnement urbain qui a conduit à la communautarisation dans les quartiers avec une forte population immigrée extra-européenne.
 
