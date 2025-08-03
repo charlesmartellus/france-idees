@@ -34,7 +34,7 @@ En conséquence, on le voit, il n’y a pas de spoliation originelle. Les Blancs
 
 Liens externes :
 
-* discours de Humza Yusaf
+* [Discours raciste anti-Blancs de Humza Yusaf](https://www.youtube.com/watch?v=FI3JBBlmej4)
 * [Article d'Hérodote](https://www.herodote.net/Empire_colonial_et_capitalisme_francais-bibliographie-31.php) à propos d'_Empire colonial et capitalisme français_, Jacques Marseille,  &#x20;1984\. Ce livre montre que la colonisation a été un coût financier pour la France et a pénalisé son économie.
 
 Liens internes :
