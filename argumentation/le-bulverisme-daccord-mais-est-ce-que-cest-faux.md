@@ -1,6 +1,6 @@
 # Le bulvérisme ("d'accord, mais est-ce que c'est faux ?")
 
-### Le bulvérisme est un sophisme consistant à expliquer pourquoi une personne à tort plutôt que de répondre à l’argument proposé.
+### Le bulvérisme est un sophisme consistant à expliquer pourquoi une personne a tort plutôt que de répondre à l’argument proposé.
 
 Dans un essai de 1941, C.S. Lewis introduit ce concept après avoir observé de manière répétée un retournement de la logique argumentative.
 
